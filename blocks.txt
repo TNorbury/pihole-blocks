@@ -1,0 +1,6 @@
+media-impression.adsafeprotected.com
+ie1-bid.adsrvr.org
+de2-bid.adsrvr.org
+enduser.adsrvr.org
+media-event.adsafeprotected.com
+gb.rdx2.nextlgsdp.com
