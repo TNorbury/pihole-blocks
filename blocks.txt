@@ -17,3 +17,4 @@ monitor.channel4.com
 sexperienceuk.channel4.com
 webstat.channel4.com
 webstats.channel4.com 
+api.channel4.com
